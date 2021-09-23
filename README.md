@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="img/apple-touch-icon.png" alt="Logo" width="80" height="80">
+    <img src="images/apple-touch-icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Custom Countdown</h3>
@@ -55,7 +55,7 @@ One of my passions is music. In this project I used two songs composed by me and
 
 Willian Negishi - willian_jvm@hotmail.com
 Project Link: [https://github.com/Dakarokoso/Custom-Countdown](https://github.com/Dakarakoso/Custom-Countdown)
-)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
