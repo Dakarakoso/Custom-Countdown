@@ -37,7 +37,8 @@ https://dakarakoso.github.io/Custom-Countdown/
 
 ## About The Project
 
-One of my passions is music. In this project I used two songs composed by me and my friend. We wrote those two songs just for fun. The Custom Countdown allows listeners to play, pause and shift songs. They can also skip to a specific part of the song using the progress bar.
+In this project, the whole idea was to keep track of a selected time and countdown while displaying the value to the user. Then once it is finished counting, display when it finished counting.
+
 
 ### Built With
 
