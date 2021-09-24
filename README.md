@@ -48,7 +48,8 @@ In this project, the whole idea was to keep track of a selected time and countdo
 
 ## Usage
 
-![Custom Countdown](https://github.com/Dakarakoso/Custom-Countdown/blob/main/images/usage.gif)
+
+![Custom Countdown](https://github.com/Dakarakoso/Custom-Countdown/blob/main/images/usage1.png)
 
 <!-- CONTACT -->
 
