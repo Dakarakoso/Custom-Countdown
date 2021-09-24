@@ -50,6 +50,7 @@ In this project, the whole idea was to keep track of a selected time and countdo
 
 
 ![Custom Countdown](https://github.com/Dakarakoso/Custom-Countdown/blob/main/images/usage1.png)
+![Custom Countdown](https://github.com/Dakarakoso/Custom-Countdown/blob/main/images/usage2.png)
 
 <!-- CONTACT -->
 
